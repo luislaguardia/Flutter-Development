@@ -1,4 +1,4 @@
-// Named: The name of an argument determines which parameter receives the value  
+// Named: The name of an argument determines which parameter receives the value
 
 void add({a, b}) { // a & b are named parameters (because of the curly braces)
   print(a + b); 
