@@ -1,4 +1,4 @@
-// Positional: The position of an argument determines which parameter receives the value
+// Positional: The position of an argument determines which parameter receives the value 
 
 void add(a, b) { // a & b are positional parameters
   print(a + b); // print() is a built-in function that will be explained later
