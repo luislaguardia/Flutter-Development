@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'My App ni Luis'),
+      home: const MyHomePage(title: 'Increment and Decrement'),
     );
   }
 }
